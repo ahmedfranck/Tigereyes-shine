@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tigereyes-shine
+- 👋 Hi, I’m @ahmedfranck
 - 👀 I’m interested in Data Analytics, Data Science, AI, Machine Learning
 - 🌱 I’m currently learning Python, Jupyter Notebook and how to create neuronals networks
 - 💞️ I’m looking to collaborate on projects about Data Science
